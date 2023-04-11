@@ -1,3 +1,6 @@
-from funcs import sum
+from funcs import sum, minus
 
 print(sum())
+
+print(minus())
+
